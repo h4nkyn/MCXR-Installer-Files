@@ -1,0 +1,18 @@
+{
+    "game_versions": ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2", "1.19"],
+    "editions": [
+        {
+            "name": "MCXR",
+            "display_name": "MCXR Standalone",
+            "compatible_versions": ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2", "1.19"]
+        }
+        { 
+            "name": "MCXR-Sodium",
+            "display_name": "MCXR & Sodium",
+        }   "compatible_versions": ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2", "1.19"]
+        { 
+            "name": "MCXR-Sodium-Iris",
+            "display_name": "MCXR + Sodium & Iris",
+        }   "compatible_versions": ["1.16.5", "1.17.1", "1.18.2", "1.19"]
+    ]
+}
