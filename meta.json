@@ -2,7 +2,7 @@
     "game_versions": ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2", "1.19"],
     "editions": [
         {
-            "name": "MCXR",
+            "name": "mcxr-core",
             "display_name": "MCXR Standalone",
             "compatible_versions": ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2", "1.19"]
         },
