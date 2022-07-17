@@ -8,14 +8,14 @@
             "compatible_versions": ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2", "1.19"]
         },
         { 
-            "names": ["mcxr-core","sodium"],
+            "names": ["mcxr-core","sodium-fabric-mc"],
             "links": ["https://github.com/CADIndie/MCXR-Installer-Files/releases/latest/download/",
                       "https://github.com/CaffeineMC/sodium-fabric/releases/latest/download/"],
             "display_name": "MCXR & Sodium",
             "compatible_versions": ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2", "1.19"]
         },
         { 
-            "names": ["mcxr-core","sodium","iris-mc"],
+            "names": ["mcxr-core","sodium-fabric-mc","iris-mc"],
             "links": ["https://github.com/CADIndie/MCXR-Installer-Files/releases/latest/download/",
                       "https://github.com/CaffeineMC/sodium-fabric/releases/latest/download/",
                       "https://github.com/IrisShaders/Iris/releases/latest/download/"],
