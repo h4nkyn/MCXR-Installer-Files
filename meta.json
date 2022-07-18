@@ -10,14 +10,14 @@
         { 
             "names": ["mcxr-","sodium-fabric-mc"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
-                      "https://api.github.com/repos/caffeinemc/sodium-fabric/"],
+                      "https://api.github.com/repos/CADIndie/sodium-fabric/"],
             "display_name": "MCXR & Sodium",
             "compatible_versions": ["1.19"]
         },
         { 
             "names": ["mcxr-","sodium-fabric-mc","iris-mc"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
-                      "https://api.github.com/repos/caffeinemc/sodium-fabric/",
+                      "https://api.github.com/repos/CADIndie/sodium-fabric/",
                       "https://api.github.com/repos/irisshaders/iris/"],
             "display_name": "MCXR & Sodium + Iris",
             "compatible_versions": ["1.19"]
