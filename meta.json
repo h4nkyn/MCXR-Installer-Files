@@ -1,20 +1,26 @@
 {
-    "game_versions": ["1.19"],
+    "game_versions": ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2", "1.19"],
     "editions": [
         {
-            "name": "mcxr-core",
+            "names": ["mcxr-"],
+            "links": ["https://api.github.com/repos/h4nkyn/mcxr-installer-files/"],
             "display_name": "MCXR Standalone",
-            "compatible_versions": ["1.19"]
+            "compatible_versions": ["1.18", "1.18.1", "1.18.2", "1.19"]
         },
         { 
-            "name": "MCXR-Sodium",
+            "names": ["mcxr-","sodium-fabric-mc"],
+            "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
+                      "https://api.github.com/repos/caffeinemc/sodium-fabric/"],
             "display_name": "MCXR & Sodium",
-            "compatible_versions": ["1.19"]
+            "compatible_versions": ["1.18", "1.18.1", "1.18.2", "1.19"]
         },
         { 
-            "name": "MCXR-Sodium-Iris",
+            "names": ["mcxr-","sodium-fabric-mc","iris-mc"],
+            "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
+                      "https://api.github.com/repos/caffeinemc/sodium-fabric/",
+                      "https://api.github.com/repos/irisshaders/iris/"],
             "display_name": "MCXR & Sodium + Iris",
-            "compatible_versions": ["1.19"]
+            "compatible_versions": ["1.18.2", "1.19"]
         }
     ]
 }
