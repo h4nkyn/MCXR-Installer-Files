@@ -2,7 +2,7 @@
     "game_versions": ["1.19"],
     "editions": [
         { 
-            "names": ["mcxr-","sodium-fabric-mc"],
+            "names": ["mcxr-","sodium-fabric-mc", "fabric"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
                       "https://api.github.com/repos/CADIndie/sodium-fabric/",
                       "https://api.github.com/repos/FabricMC/fabric/"],
@@ -11,7 +11,7 @@
         },
 
         { 
-            "names": ["mcxr-","sodium-fabric-mc","iris-mc"],
+            "names": ["mcxr-","sodium-fabric-mc","iris-mc", "fabric"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
                       "https://api.github.com/repos/CADIndie/sodium-fabric/",
                       "https://api.github.com/repos/irisshaders/iris/",
@@ -20,7 +20,7 @@
             "compatible_versions": ["1.19"]
          },
          {
-            "names": ["mcxr-"],
+            "names": ["mcxr-", "fabric"],
             "links": ["https://api.github.com/repos/h4nkyn/mcxr-installer-files/",
                       "https://api.github.com/repos/FabricMC/fabric/"],
             "display_name": "MCXR Standalone",
